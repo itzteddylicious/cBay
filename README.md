@@ -1,8 +1,8 @@
-# __Wiki__
+# __cBay__
 #### Video Demo: <https://youtu.be/C6JghraDols>
 
 ## __Definition__
-This is cBay. A Ebay clone created for CS50W project 2.
+This is cBay. An Ebay clone created for CS50W project 2.
 
 Features:
 - This project has active listings to show all the available products on auction.
